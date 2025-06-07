@@ -16,7 +16,7 @@ Option 1: yes, 7.6 billion QUBIC
 
 ---
 
-### Note: This **CCF** proposal is part of a 3 layered proposal. The current request covers the first phase, with Part 2 planned for July and Part 3 in August. Each phase will build on the previous one, allowing for progress evaluation and alignment before proceeding.The total amount across all three phases will be 22.8 billion QUBIC.
+### Note: This **CCF** proposal is part 1 of a 3 layered proposal. The current request covers the first phase, with Part 2 planned for July and Part 3 in August. Each phase will build on the previous one, allowing for progress evaluation and alignment before proceeding.The total amount across all three phases will be 22.8 billion QUBIC.
 
 ### 
 
