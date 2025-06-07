@@ -2,7 +2,7 @@
 
 ---
 
-**CCF Proposal Part 1** 
+**CCF Proposal: Part 1** 
 
 Part 1 Send 7.6 billion QUBIC to the identity: 
 
