@@ -4,7 +4,7 @@
 
 **CCF Proposal: Part 1** 
 
-Send 7.6 billion QUBIC to the identity: 
+Send 7.6 billion QUBIC to the wallet: 
 
 BIALNVSDAWDXUCOVZALXDHDTONNBLVVSPVMWGKUTLCAPNUQMCKJANYFCLMZM 
 
